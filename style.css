@@ -117,3 +117,9 @@ a {
     width: 100px;
     height: 100px;
 }
+
+.y_video {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
